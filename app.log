@@ -1,0 +1,24 @@
+2025-02-23 14:24:50,656 - WARNING -  * Debugger is active!
+2025-02-23 14:24:50,671 - INFO -  * Debugger PIN: 654-722-076
+2025-02-23 14:24:54,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-23 14:24:54,795 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 14:24:54,797 - INFO -  * Restarting with stat
+2025-02-23 14:24:55,556 - WARNING -  * Debugger is active!
+2025-02-23 14:24:55,556 - INFO -  * Debugger PIN: 654-722-076
+2025-02-23 14:25:35,937 - INFO - 127.0.0.1 - - [23/Feb/2025 14:25:35] "GET / HTTP/1.1" 200 -
+2025-02-23 14:25:41,540 - INFO - 127.0.0.1 - - [23/Feb/2025 14:25:41] "GET / HTTP/1.1" 200 -
+2025-02-23 14:26:22,667 - INFO - 127.0.0.1 - - [23/Feb/2025 14:26:22] "GET / HTTP/1.1" 200 -
+2025-02-23 14:26:27,884 - ERROR - \u062d\u062f\u062b \u062e\u0637\u0623 \u0623\u062b\u0646\u0627\u0621 \u062a\u062d\u062f\u064a\u062b \u0645\u0644\u0641 Excel: [Errno 13] Permission denied: 'C:\\Users\\EL-Huda\\Desktop\\my_project\\uploads\\client_data.xlsx'
+2025-02-23 14:26:27,884 - ERROR - \u062e\u0637\u0623 \u0623\u062b\u0646\u0627\u0621 \u0625\u0646\u0634\u0627\u0621 \u0645\u0644\u0641 Excel: [Errno 13] Permission denied: 'C:\\Users\\EL-Huda\\Desktop\\my_project\\uploads\\client_data.xlsx'
+2025-02-23 14:26:27,884 - INFO - 127.0.0.1 - - [23/Feb/2025 14:26:27] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-02-23 14:26:27,908 - INFO - 127.0.0.1 - - [23/Feb/2025 14:26:27] "GET /download/updated_document.docx HTTP/1.1" 200 -
+2025-02-23 14:28:01,753 - INFO - 127.0.0.1 - - [23/Feb/2025 14:28:01] "GET / HTTP/1.1" 200 -
+2025-02-23 14:28:19,307 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-23 14:28:19,307 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 14:28:19,307 - INFO -  * Restarting with stat
+2025-02-23 14:28:20,099 - WARNING -  * Debugger is active!
+2025-02-23 14:28:20,105 - INFO -  * Debugger PIN: 654-722-076
+2025-02-23 14:30:56,005 - INFO -  * Detected change in 'C:\\Users\\EL-Huda\\Desktop\\my_project\\app.py', reloading
+2025-02-23 14:30:56,156 - INFO -  * Restarting with stat

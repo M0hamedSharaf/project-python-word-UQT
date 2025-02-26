@@ -1,0 +1,23 @@
+C:\Users\EL-Huda\Desktop\my_project
+│
+├── app.py  # الكود الرئيسي
+├── uploads/  # مجلد لحفظ الملفات المعدلة
+│   ├── updated_document.docx  # الملف المعدل بعد استبدال النصوص
+│   └── client_data.xlsx  # ملف Excel الذي يحتوي على بيانات العملاء
+└── templates/
+    └── download_success.html  # صفحة النجاح التي تعرض بعد تحميل الملف
+
+
+
+شغل التطبيق باستخدام:
+
+1- venv\Scripts\activate.bat
+
+
+2- pip install openpyxl
+
+
+3- pip list | findstr openpyxl
+
+
+4- python app.py
